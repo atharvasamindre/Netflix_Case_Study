@@ -18,16 +18,27 @@ The dataset at the heart of this exploration includes a comprehensive listing of
 of the key features:
 
 • Show_id: Unique ID for every movie or TV show.
+
 • Type: Identifier - Is it a movie or a TV show?
+
 • Title: The title of the movie or TV show.
+
 • Director: The director of the movie.
+
 • Cast: The talented actors involved in the movie or show.
+
 • Country: The country where the movie or show was produced.
+
 • Date_added: The date it was added to Netflix.
+
 • Release_year: The actual release year of the movie or show.
+
 • Rating: The TV rating of the movie or show.
+
 • Duration: Total duration, whether in minutes or number of seasons.
+
 • Listed_in: Genre.
+
 • Description: A brief summary description.
 # 🚀 Mission 🚀
 As you dive into this exploration, keep in mind that each recommendation you make should be rooted in data. Imagine presenting your 
@@ -36,11 +47,17 @@ findings to Netflix's top brass – executives who may not be data experts. So, 
 To get you started, here are some questions you might consider:
 
 • What types of content are available in different countries?
+
 • How has the number of movies released per year changed over the last few decades?
+
 • Compare TV shows to movies. Which dominates the platform?
+
 • When is the best time to launch a TV show?
+
 • Analyze the actors and directors behind different types of content.
+
 • Has Netflix shifted its focus towards TV shows over movies in recent years?
+
 • Discover what content is available in different countries.
 
 # 📈 Let's Get Exploring 📊
