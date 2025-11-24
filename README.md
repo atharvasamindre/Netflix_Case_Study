@@ -60,6 +60,4 @@ To get you started, here are some questions you might consider:
 
 • Discover what content is available in different countries.
 
-# 📈 Let's Get Exploring 📊
-Now that you're armed with questions and a powerful dataset, it's time to embark on your Netflix data exploration journey. 
 
