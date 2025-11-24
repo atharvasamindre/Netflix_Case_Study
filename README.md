@@ -61,10 +61,5 @@ To get you started, here are some questions you might consider:
 • Discover what content is available in different countries.
 
 # 📈 Let's Get Exploring 📊
-Now that you're armed with questions and a powerful dataset, it's time to embark on your Netflix data exploration journey. Feel free to fork this 
-repository, clone it to your local machine, and start diving into the code and data. Don't forget to share your findings and insights with the 
-community.
+Now that you're armed with questions and a powerful dataset, it's time to embark on your Netflix data exploration journey. 
 
-Remember, the more we learn from this data, the better we can help Netflix continue to entertain and inspire millions around the world! 🌎🍿
-
-Happy coding! 🚀👨‍💻🎬
